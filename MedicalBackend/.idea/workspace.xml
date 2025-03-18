@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aca3bfe7-9072-4055-b83d-7e2bb261183c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\比赛\区块链\区块链需用的软件\apache-maven-3.8.7\conf" />
+        <option name="localRepository" value="D:\比赛\区块链\区块链需用的软件\apache-maven-3.8.7" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\比赛\区块链\区块链需用的软件\apache-maven-3.8.7\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2pfCNp8Mu2EvbWfHKYRqatWktOQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "HTTP Request.generated-requests | #1.executor": "Run",
+    "HTTP Request.generated-requests | #10.executor": "Run",
+    "HTTP Request.generated-requests | #100.executor": "Run",
+    "HTTP Request.generated-requests | #101.executor": "Run",
+    "HTTP Request.generated-requests | #102.executor": "Run",
+    "HTTP Request.generated-requests | #103.executor": "Run",
+    "HTTP Request.generated-requests | #104.executor": "Run",
+    "HTTP Request.generated-requests | #105.executor": "Run",
+    "HTTP Request.generated-requests | #106.executor": "Run",
+    "HTTP Request.generated-requests | #11.executor": "Run",
+    "HTTP Request.generated-requests | #112.executor": "Run",
+    "HTTP Request.generated-requests | #113.executor": "Run",
+    "HTTP Request.generated-requests | #114.executor": "Run",
+    "HTTP Request.generated-requests | #115.executor": "Run",
+    "HTTP Request.generated-requests | #116.executor": "Run",
+    "HTTP Request.generated-requests | #117.executor": "Run",
+    "HTTP Request.generated-requests | #118.executor": "Run",
+    "HTTP Request.generated-requests | #119.executor": "Run",
+    "HTTP Request.generated-requests | #12.executor": "Run",
+    "HTTP Request.generated-requests | #120.executor": "Run",
+    "HTTP Request.generated-requests | #121.executor": "Run",
+    "HTTP Request.generated-requests | #122.executor": "Run",
+    "HTTP Request.generated-requests | #123.executor": "Run",
+    "HTTP Request.generated-requests | #124.executor": "Run",
+    "HTTP Request.generated-requests | #125.executor": "Run",
+    "HTTP Request.generated-requests | #126.executor": "Run",
+    "HTTP Request.generated-requests | #128.executor": "Run",
+    "HTTP Request.generated-requests | #129.executor": "Run",
+    "HTTP Request.generated-requests | #13.executor": "Run",
+    "HTTP Request.generated-requests | #130.executor": "Run",
+    "HTTP Request.generated-requests | #132.executor": "Run",
+    "HTTP Request.generated-requests | #14.executor": "Run",
+    "HTTP Request.generated-requests | #15.executor": "Run",
+    "HTTP Request.generated-requests | #16.executor": "Run",
+    "HTTP Request.generated-requests | #18.executor": "Run",
+    "HTTP Request.generated-requests | #19.executor": "Run",
+    "HTTP Request.generated-requests | #2.executor": "Run",
+    "HTTP Request.generated-requests | #20.executor": "Run",
+    "HTTP Request.generated-requests | #21.executor": "Run",
+    "HTTP Request.generated-requests | #22.executor": "Run",
+    "HTTP Request.generated-requests | #23.executor": "Run",
+    "HTTP Request.generated-requests | #24.executor": "Run",
+    "HTTP Request.generated-requests | #25.executor": "Run",
+    "HTTP Request.generated-requests | #26.executor": "Run",
+    "HTTP Request.generated-requests | #27.executor": "Run",
+    "HTTP Request.generated-requests | #28.executor": "Run",
+    "HTTP Request.generated-requests | #29.executor": "Run",
+    "HTTP Request.generated-requests | #3.executor": "Run",
+    "HTTP Request.generated-requests | #31.executor": "Run",
+    "HTTP Request.generated-requests | #32.executor": "Run",
+    "HTTP Request.generated-requests | #33.executor": "Run",
+    "HTTP Request.generated-requests | #34.executor": "Run",
+    "HTTP Request.generated-requests | #35.executor": "Run",
+    "HTTP Request.generated-requests | #36.executor": "Run",
+    "HTTP Request.generated-requests | #37.executor": "Run",
+    "HTTP Request.generated-requests | #38.executor": "Run",
+    "HTTP Request.generated-requests | #39.executor": "Run",
+    "HTTP Request.generated-requests | #4.executor": "Run",
+    "HTTP Request.generated-requests | #40.executor": "Run",
+    "HTTP Request.generated-requests | #41.executor": "Run",
+    "HTTP Request.generated-requests | #42.executor": "Run",
+    "HTTP Request.generated-requests | #43.executor": "Run",
+    "HTTP Request.generated-requests | #44.executor": "Run",
+    "HTTP Request.generated-requests | #45.executor": "Run",
+    "HTTP Request.generated-requests | #46.executor": "Run",
+    "HTTP Request.generated-requests | #47.executor": "Run",
+    "HTTP Request.generated-requests | #48.executor": "Run",
+    "HTTP Request.generated-requests | #49.executor": "Run",
+    "HTTP Request.generated-requests | #5.executor": "Run",
+    "HTTP Request.generated-requests | #50.executor": "Run",
+    "HTTP Request.generated-requests | #51.executor": "Run",
+    "HTTP Request.generated-requests | #52.executor": "Run",
+    "HTTP Request.generated-requests | #53.executor": "Run",
+    "HTTP Request.generated-requests | #54.executor": "Run",
+    "HTTP Request.generated-requests | #55.executor": "Run",
+    "HTTP Request.generated-requests | #56.executor": "Run",
+    "HTTP Request.generated-requests | #57.executor": "Run",
+    "HTTP Request.generated-requests | #58.executor": "Run",
+    "HTTP Request.generated-requests | #59.executor": "Run",
+    "HTTP Request.generated-requests | #6.executor": "Run",
+    "HTTP Request.generated-requests | #60.executor": "Run",
+    "HTTP Request.generated-requests | #61.executor": "Run",
+    "HTTP Request.generated-requests | #62.executor": "Run",
+    "HTTP Request.generated-requests | #63.executor": "Run",
+    "HTTP Request.generated-requests | #64.executor": "Run",
+    "HTTP Request.generated-requests | #65.executor": "Run",
+    "HTTP Request.generated-requests | #66.executor": "Run",
+    "HTTP Request.generated-requests | #67.executor": "Run",
+    "HTTP Request.generated-requests | #68.executor": "Run",
+    "HTTP Request.generated-requests | #69.executor": "Run",
+    "HTTP Request.generated-requests | #70.executor": "Run",
+    "HTTP Request.generated-requests | #71.executor": "Run",
+    "HTTP Request.generated-requests | #72.executor": "Run",
+    "HTTP Request.generated-requests | #73.executor": "Run",
+    "HTTP Request.generated-requests | #74.executor": "Run",
+    "HTTP Request.generated-requests | #75.executor": "Run",
+    "HTTP Request.generated-requests | #76.executor": "Run",
+    "HTTP Request.generated-requests | #77.executor": "Run",
+    "HTTP Request.generated-requests | #78.executor": "Run",
+    "HTTP Request.generated-requests | #79.executor": "Run",
+    "HTTP Request.generated-requests | #8.executor": "Run",
+    "HTTP Request.generated-requests | #80.executor": "Run",
+    "HTTP Request.generated-requests | #81.executor": "Run",
+    "HTTP Request.generated-requests | #83.executor": "Run",
+    "HTTP Request.generated-requests | #86.executor": "Run",
+    "HTTP Request.generated-requests | #87.executor": "Run",
+    "HTTP Request.generated-requests | #89.executor": "Run",
+    "HTTP Request.generated-requests | #9.executor": "Run",
+    "HTTP Request.generated-requests | #90.executor": "Run",
+    "HTTP Request.generated-requests | #91.executor": "Run",
+    "HTTP Request.generated-requests | #92.executor": "Run",
+    "HTTP Request.generated-requests | #93.executor": "Run",
+    "HTTP Request.generated-requests | #94.executor": "Run",
+    "HTTP Request.generated-requests | #95.executor": "Run",
+    "HTTP Request.generated-requests | #96.executor": "Run",
+    "HTTP Request.generated-requests | #97.executor": "Run",
+    "HTTP Request.generated-requests | #98.executor": "Run",
+    "HTTP Request.generated-requests | #99.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.message (1).executor": "Run",
+    "Spring Boot.message (2).executor": "Run",
+    "Spring Boot.message.executor": "Run",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/比赛/区块链/MedicalBackend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15527344",
+    "project.structure.side.proportion": "0.54022986",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\比赛\区块链\MedicalBackend\src\main\java\org\example\medical" />
+      <recent name="D:\比赛\区块链\MedicalBackend\src\main\java\org\example\entity" />
+      <recent name="D:\比赛\区块链\MedicalBackend" />
+      <recent name="D:\比赛\区块链\MedicalBackend\src\main\resources" />
+      <recent name="D:\比赛\区块链\MedicalBackend\src\main\java\org\example" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.message (2)">
+    <configuration name="message" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.message" />
+      <module name="MedicalBackend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generated-requests | #130" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="130" requestIdentifier="#130" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #132" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="132" requestIdentifier="#132" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="message (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="project-8-back" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.message" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="message (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="MedicalBackend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.message" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="message" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.message" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.message (2)" />
+        <item itemvalue="Spring Boot.message (1)" />
+        <item itemvalue="Spring Boot.message" />
+        <item itemvalue="HTTP Request.generated-requests | #132" />
+        <item itemvalue="HTTP Request.generated-requests | #130" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aca3bfe7-9072-4055-b83d-7e2bb261183c" name="Changes" comment="" />
+      <created>1733147706006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733147706006</updated>
+      <workItem from="1733147707041" duration="34484000" />
+      <workItem from="1733253802597" duration="2809000" />
+      <workItem from="1733307732674" duration="6000" />
+      <workItem from="1733307964863" duration="7074000" />
+      <workItem from="1733379437652" duration="4524000" />
+      <workItem from="1733500353192" duration="43869000" />
+      <workItem from="1733738729549" duration="67900000" />
+      <workItem from="1733928868956" duration="331000" />
+      <workItem from="1733978401856" duration="16691000" />
+      <workItem from="1734003846824" duration="16769000" />
+      <workItem from="1734071877068" duration="11663000" />
+      <workItem from="1734176476307" duration="4902000" />
+      <workItem from="1734330320671" duration="30120000" />
+      <workItem from="1734489586335" duration="5217000" />
+      <workItem from="1734507795183" duration="2253000" />
+      <workItem from="1734514066265" duration="10909000" />
+      <workItem from="1734610823024" duration="2277000" />
+      <workItem from="1734617900448" duration="13346000" />
+      <workItem from="1734760038586" duration="6372000" />
+      <workItem from="1734774855450" duration="44000" />
+      <workItem from="1734801411548" duration="59654000" />
+      <workItem from="1735292371704" duration="22093000" />
+      <workItem from="1736082090659" duration="405000" />
+      <workItem from="1736089191579" duration="130000" />
+      <workItem from="1736089333912" duration="23000" />
+      <workItem from="1736089374066" duration="133000" />
+      <workItem from="1736089523536" duration="88000" />
+      <workItem from="1736089675285" duration="59000" />
+      <workItem from="1736089787805" duration="694000" />
+      <workItem from="1739341615181" duration="5000" />
+      <workItem from="1742301403020" duration="180000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
