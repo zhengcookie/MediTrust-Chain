@@ -30,8 +30,8 @@
 
 ### 环境要求
 - JDK 1.8+
-- Node.js 14+
-- MySQL 5.7+
+- Node.js 18+
+- MySQL 8.0+
 - FISCO-BCOS节点（[搭建指南](https://fisco-bcos-documentation.readthedocs.io/)）
 
 ### 后端部署
@@ -84,10 +84,8 @@ npm run dev
 
 ## 📄 许可证
 
-本项目采用 [MIT License](https://license/)
+本项目采用 [MIT License](LICENSE)
 
 ##  致谢
 
 - FISCO-BCOS开源社区提供区块链技术支持
-
-## 🖼️ 
